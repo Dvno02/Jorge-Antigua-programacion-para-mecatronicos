@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695362093 source:c:\users\tufla\documents\progra\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+
