@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699965682 source:c:\users\tufla\documents\progra\loteria 1ra version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
